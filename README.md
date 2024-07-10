@@ -10,7 +10,7 @@ This project is intended for educational purposes. This project implements the c
 
 ## Installation
 
-`https://github.com/mokhtar77777/Snake_Game.git`
+`git clone https://github.com/mokhtar77777/Snake_Game.git`
 
 ## Dependencies
 
